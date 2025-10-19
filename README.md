@@ -1,16 +1,46 @@
-# React + Vite
+# Personal Portfolio Website
+Welcome to my personal portfolio! This website showcases my background, technical skills, projects, and professional experience. It is built using React and designed to provide potential employers, collaborators, or anyone interested in my work, a clear view of who I am and what I can do.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Purpose
+The purpose of this portfolio is to provide a professional yet personal platform where I can display my work, skills, and achievements in a way that is easily accessible. It serves as both a dynamic resume and an interactive showcase of my technical projects, giving visitors an opportunity to get to know me better and explore my work in more detail. The website is also designed to be user-friendly, responsive, and visually appealing, reflecting both my design sense and technical capabilities.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Portfolio Features
+Modify this section based on the specific features and sections you've included in your portfolio.
+This portfolio consists of several key sections:
 
-## React Compiler
+### Biography Page
+A personal overview of who I am, my educational background, and my interests.
+A section detailing my passions and goals, providing a more personal touch beyond my technical skills.
+Visitors can explore the work I have done, understand my approach, and view my coding style.
+### Interest Page
+I put here my interests like NBA. 
+###  Contact Page
+A page allowing visitors to reach out to me via a contact form, email address, or through links to my professional social media profiles (e.g., LinkedIn, GitHub).
+This ensures that anyone interested in connecting with me can do so easily.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
+This personal portfolio was built with the following technologies:
+React – The primary JavaScript library used to create the interactive elements of the site.
+Vite – A modern build tool for faster React development.
+CSS – For styling the layout and design.
+GitHub Pages – For hosting and deploying the live version of the website.
 
-## Expanding the ESLint configuration
+## Features and Functionality
+Update this section to reflect the features and functionality available in your portfolio.
+Responsive Design: The website is fully responsive and adapts seamlessly to different screen sizes, including mobile and tablet.
+Interactive Elements: Some sections of the portfolio (like the Skills Page) feature interactive elements such as hover effects, animations, and clickable badges.
+Dark Mode: The portfolio includes an optional dark mode toggle to cater to users’ preferences for screen readability.
+Smooth Navigation: Navigation is made easy with a clean, intuitive header and anchor links, ensuring users can quickly access different sections of the website.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Live Demo
+You can access the live version of your portfolio once it's deployed:
+[GitHub Pages URL:](https://github.com/DudeBruh326/personal-portfolio.git)
+
+## Demo Recording:
+
+[Demo Recording URL:](https://drive.google.com/file/d/1GQXp2sVXwKCNrSd_m9YBn22fgRagGtsr/view?usp=drivesdk )
+
+
+
