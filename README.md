@@ -36,7 +36,7 @@ Smooth Navigation: Navigation is made easy with a clean, intuitive header and an
 
 ## Live Demo
 You can access the live version of your portfolio once it's deployed:
-[https://github.com/DudeBruh326/personal-portfolio.git](https://github.com/DudeBruh326/personal-portfolio.git)
+[https://dudebruh326.github.io/personal-portfolio/](https://dudebruh326.github.io/personal-portfolio/)
 
 ## Demo Recording:
 
